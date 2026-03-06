@@ -1,0 +1,50 @@
+name: virgen.harber
+description: open architecture
+version: 0.80.563
+author: 8vtfuddk.y4r87cm8@pwftclgu.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: virgenharber
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2026-03-06 13:50:39'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-03-06 13:50:39'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2026-03-06T13:50:39.777676Z'
+  name: plibMaven
+  version: 9.1.0-SNAPSHOT
+  id: '481457867'
+  createdAt: '2026-03-06T13:50:39.777676Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
